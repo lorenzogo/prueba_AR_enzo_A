@@ -349,4 +349,13 @@ body {
 h1 {
   margin: 1em;
 }
+
+.mindar-ui-overlay {
+  border: solid 1px red;
+  height: 600px;
+  width: 600px;
+  position: absolut;
+  left: 400px;
+  top: 100px;
+}
 /*# sourceMappingURL=style.css.map */
